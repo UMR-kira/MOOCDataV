@@ -9,4 +9,4 @@ some crawling results
 
 Some visualization results  
 ![图片0](https://github.com/UMR-kira/MoocCrawlerDV/assets/113828450/9392dfc3-fa53-4425-8c23-33b62c0eed69)  
-If you have any questions you can start an issue
+If you have any questions you can submit an issue
