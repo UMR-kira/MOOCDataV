@@ -8,9 +8,5 @@ some crawling results
 ![image](https://github.com/UMR-kira/MoocCrawlerDV/assets/113828450/bbd3be6f-df93-4687-afe1-759d51ff5e96)  
 
 Some visualization results  
-p1![image](https://github.com/UMR-kira/MoocCrawlerDV/assets/113828450/393e304b-2104-4e17-948a-bd9cd1054c17)  
-p2![image](https://github.com/UMR-kira/MoocCrawlerDV/assets/113828450/f38b422a-1956-4807-b168-2b782f58a5fb)  
-p3![image](https://github.com/UMR-kira/MoocCrawlerDV/assets/113828450/2f11bce3-e8b3-4cd7-9b7b-777e02da2eaa)  
-p4![image](https://github.com/UMR-kira/MoocCrawlerDV/assets/113828450/cce605af-b5fb-47c7-b91b-8f796d15135d)  
-p5![image](https://github.com/UMR-kira/MoocCrawlerDV/assets/113828450/bc634f46-78e7-451f-841b-1e67cca4021b)  
-
+![图片0](https://github.com/UMR-kira/MoocCrawlerDV/assets/113828450/9392dfc3-fa53-4425-8c23-33b62c0eed69)  
+If you have any questions you can start an issue
