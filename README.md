@@ -1,5 +1,5 @@
 # MOOC Data Crawler And Visualization
-Based on selenium,Beautifulsoup4 and pyechart  
+Based on selenium, Beautifulsoup4 and pyechart  
 DataShare | Password: First four letters of readme  
 [GoogleDrive-CrawlMooc-MergeDataInfo-datainfo.rar](https://drive.google.com/file/d/1WHhcCeKclFeSpXJqk3hacMefClK0o97v/view?usp=sharing)  
 [GoogleDrive-MoocVisual-CommHandle.rar](https://drive.google.com/file/d/1z0obKSREZQZKDE3QkPXD_Yn0ImXupgqf/view?usp=sharing )  
