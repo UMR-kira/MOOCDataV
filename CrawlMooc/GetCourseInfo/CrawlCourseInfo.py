@@ -23,7 +23,7 @@ def getCourseInfo(courseurl):  # 获得所有课程信息
         try:
             count = i * 103
             for url in courseurl[i * 103:(i + 1) * 103]:
-                count = count + 1  # + i * 103 这样是错误的，因为他自增1，不需要额外加
+                count = count + 1  # + i * 103 
                 print("正在爬取第" + str(count) + "个课程链接：" + url[0])
                 try:
                     web.get(url[0])
@@ -106,7 +106,7 @@ def getCourseInfo(courseurl):  # 获得所有课程信息
 
                     # 爬取评论
                     if commnum:
-                        pagenum = int((commnum - 1) / 20)  # 整除20+1就是页数，循环不用+1
+                        pagenum = int((commnum - 1) / 20)  
                         element = web.find_element(By.XPATH, '//*[@id="review-tag-button"]')  # 找到评论区的位置
                         web.execute_script("arguments[0].click();", element)  # 切换评论区
                         time.sleep(1)
