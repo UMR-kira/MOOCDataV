@@ -4,7 +4,6 @@ DataShare | Password:MOOC
 https://drive.google.com/file/d/1WHhcCeKclFeSpXJqk3hacMefClK0o97v/view?usp=sharing, https://drive.google.com/file/d/1z0obKSREZQZKDE3QkPXD_Yn0ImXupgqf/view?usp=sharing 
 
 some crawling results  
-![image](https://github.com/UMR-kira/MoocCrawlerDV/assets/113828450/bf595c3b-9aae-438b-8d59-5b04d0d70bab)
 ![image](https://github.com/UMR-kira/MoocCrawlerDV/assets/113828450/52a6e060-806c-4151-bdc8-7a8cb693d732)
 ![image](https://github.com/UMR-kira/MoocCrawlerDV/assets/113828450/bbd3be6f-df93-4687-afe1-759d51ff5e96)
 Some visualization results  
