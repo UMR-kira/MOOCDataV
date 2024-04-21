@@ -13,5 +13,4 @@ p2![image](https://github.com/UMR-kira/MoocCrawlerDV/assets/113828450/f38b422a-1
 p3![image](https://github.com/UMR-kira/MoocCrawlerDV/assets/113828450/2f11bce3-e8b3-4cd7-9b7b-777e02da2eaa)  
 p4![image](https://github.com/UMR-kira/MoocCrawlerDV/assets/113828450/cce605af-b5fb-47c7-b91b-8f796d15135d)  
 p5![image](https://github.com/UMR-kira/MoocCrawlerDV/assets/113828450/bc634f46-78e7-451f-841b-1e67cca4021b)  
-p6![image](https://github.com/UMR-kira/MoocCrawlerDV/assets/113828450/d38155f9-45e4-4007-8b7e-9573d9e25e0a)  
 
